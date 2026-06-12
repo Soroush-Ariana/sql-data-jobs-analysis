@@ -8,7 +8,7 @@
 
 ## Introduction
 
-As someone actively pursuing data analyst roles in the UK, I wanted to go beyond guesswork and answer the questions that actually matter when planning a career in data: which skills should I focus on, what can I realistically expect to earn, and where does demand align with higher pay?
+As someone actively pursuing data analyst roles, I wanted to go beyond guesswork and answer the questions that actually matter when planning a career in data: which skills should I focus on, what can I realistically expect to earn, and where does demand align with higher pay?
 
 This project uses SQL to analyse a real-world dataset of data analyst job postings, turning those questions into concrete, data-backed answers.
 
