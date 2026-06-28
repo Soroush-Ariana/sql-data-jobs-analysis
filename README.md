@@ -66,7 +66,7 @@ LIMIT 10;
 - Job titles vary significantly — from Data Analyst to Director of Analytics — reflecting the range of specialisations within data
 
 ![Top Paying Roles](Images/1_top_paying_roles.png)
-*Bar chart of the top 10 salaries for remote data analyst roles; visualised using ChatGPT from SQL query results*
+*Bar chart of the top 10 salaries for remote data analyst roles, based on SQL query results*
 
 ---
 
@@ -110,7 +110,7 @@ ORDER BY
 - R, Snowflake, Pandas, and Excel also appear, showing that breadth of skills matters at the top end
 
 ![Top Paying Skills](Images/2_top_paying_roles_skills.png)
-*Bar chart of skill frequency across the top 10 paying data analyst roles; visualised using ChatGPT from SQL query results*
+*Bar chart of skill frequency across the top 10 paying data analyst roles, based on SQL query results*
 
 ---
 
